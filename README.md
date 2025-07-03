@@ -88,9 +88,4 @@ These insights are directly applicable to marketing and sales teams in retail or
 
 ---
 
-## ▶️ How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sandip2512/market-basket-analysis.git
-   cd market-basket-analysis
